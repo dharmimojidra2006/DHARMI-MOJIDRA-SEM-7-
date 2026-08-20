@@ -1,0 +1,6 @@
+{
+  "name": "Swiggy Next",
+  "description": "Next-generation Swiggy food ordering & e-commerce experience featuring Multi-Restaurant Cart, 120s instant cancellation guarantee, direct human support, Instamart, Dineout, and Scenes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
